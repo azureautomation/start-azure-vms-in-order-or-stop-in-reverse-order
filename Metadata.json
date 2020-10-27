@@ -1,0 +1,20 @@
+{
+    "Author": "James Anderson",
+    "ContentSize": 17876,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/start-azure-vms-in-order-or-stop-in-reverse-order./master/StartStop-VMsInOrder.ps1",
+    "DownloadCount": 778,
+    "Id": "Start-Azure-VMs-in-order-5170eefb",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 102,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-8-22T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Start Azure VMs in order or stop them in reverse order.\u00a0 The script requires two parameters:\u00a0 action and JSONConfigFile.\u00a0 The action is start, stop, or test.\u00a0 The JSONConfigFile is the URL link to the JSON configuration file.",
+    "Title": "Start Azure VMs in order or stop in reverse order.",
+    "UpdatedDate": "2019-8-27T00:00:00",
+    "Url": "https://github.com/azureautomation/start-azure-vms-in-order-or-stop-in-reverse-order.",
+    "UserTags": "Microsoft Azure, Powershell Script"
+}
